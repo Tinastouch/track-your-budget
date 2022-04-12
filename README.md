@@ -13,6 +13,8 @@
   
   * [Usage](#usage)
 
+  * [Deployed](#deployed)
+
   * [Contributing](#contributing)
 
   * [Screenshot](#screenshot)
@@ -42,7 +44,11 @@
    To start server: npm start
 
    You must have Node to run this app 
+   
+  ## Deployed
   
+  
+  https://glacial-lowlands-90343.herokuapp.com/
 
   ## Contributing
 
